@@ -1,3 +1,34 @@
-z="
-";yz='/dl.';KBz='skto';rDz='read';LCz='n" >';Wz=' sud';aCz='tl d';sCz='s na';GEz='tps:';GCz='usr/';ZBz='s --';Lz='{';yDz='su -';Bz='tf "';yBz='ho "';tDz='"Pas';VEz='dev/';Xz='o';Fz='DP B';fBz='FRON';sDz=' -p ';ACz='exec';QCz='desk';HBz='me-r';tCz='no -';MBz='rren';MCz='c/ch';VBz='tall';YDz='tede';oDz='e Do';dCz='ight';eEz='cure';dBz=' DEB';JDz='lete';DEz='""';NDz='\nEr';BCz=' /et';xCz='remo';jCz='e-st';yCz='te-d';uDz='te H';DCz='1/Xs';LEz='cces';EBz='/dir';EDz='ll &';JBz='e-de';fCz='ervi';kCz='able';Tz='user';aDz='ogle';Rz='ush';FDz='&';fEz='fi';Cz='Inst';bCz='isab';KEz='om/a';eCz='dm.s';GDz='\nSe';YEz='\n\n';Uz=' Dha';qCz=' nau';ZCz='temc';XEz='then';PCz='ote-';bBz='brok';wBz='h -c';jz='s/\/';JCz='4-se';bDz='.com';az='anus';Jz='. " ';pz='g'\'' /';qDz=''\''';JEz='top.';HCz='bin/';RBz='g --';SDz='2';cEz='Erro';VDz='eck ';vz='wget';nz='n\/b';DDz='v/nu';tBz='op-b';FEz='k ht';rz=' apt';xz='ps:/';rCz='tilu';PEz='udo ';uBz='ase';LBz='p_cu';bEz='else';lCz='_cur';ECz='essi';SEz='upgr';fDz='opy ';Ez='ng R';UCz='s xs';hz='sed ';iCz='hrom';Mz='sudo';nCz='_amd';pBz='-yes';PDz='Occu';rBz='e4 d';iz='-i '\''';qBz=' xfc';kDz='n Li';dDz='dles';iDz='Of D';IDz='Comp';xBz=' '\''ec';KDz=' " >';BEz='"""$';Gz='e Pa';YBz='e-ye';cz='h643';UBz=' ins';uz='ate';Vz='nush';TCz='ion'\''';WEz='null';uCz='y';FBz='ect/';ZEz='Upgr';HDz='tup ';SBz='inst';wCz='ome-';IEz='mote';gCz='ce';REz='get ';mBz='apt ';XCz='er';DBz='inux';OCz='-rem';vBz=' bas';CCz='c/X1';dEz='r Oc';TEz='ade ';Pz=' -m ';oz='ash/';fz='pass';Zz=' '\''Dh';PBz='deb';Sz=' add';XBz='ssum';CBz='om/l';TBz='all ';HEz='//re';IBz='emot';ADz='op';aEz='d " ';mCz='rent';nBz='--as';XDz='s://';ABz='goog';NBz='t_am';hBz='=non';QEz='apt-';wz=' htt';dz='2'\'' |';lz='/sh/';nDz='Past';sBz='eskt';gBz='TEND';WBz=' --a';MDz='|';vDz='ere:';cCz='le l';Oz='radd';Nz=' use';NCz='rome';eBz='IAN_';ODz='ror ';WCz='nsav';QDz='red ';mz='\/bi';iBz='inte';TDz='tf '\''';xDz='RP';CDz=' /de';eDz='s  C';UDz='\nCh';FCz='on /';jBz='ract';QBz=' dpk';RDz='" >&';YCz=' sys';AEz=' -c ';LDz='&2 |';pCz='eb';jDz='ebia';RCz='top-';wDz=' " C';oCz='64.d';UEz='&> /';EEz='Chec';Hz='tien';gz='wd';MEz='s/ \';lBz='\';SCz='sess';kz='bin\';tz=' upd';gDz='Comm';Yz='echo';KCz='ssio';pDz='wn\n';hDz='and ';Dz='alli';OEz='if s';Iz='ce..';CEz='CRP"';NEz='n\n'\''';lDz='nux ';Qz='Dhan';GBz='chro';BDz='} &>';Kz='>&2';aBz='fix-';oBz='sume';ez='o ch';ICz='xfce';vCz=' chr';cDz='/hea';sz='-get';VCz='cree';ZDz='p.go';bz='h:dh';mDz='And ';hCz='le-c';WDz='http';qz='etc/';cBz='en';BBz='le.c';Az='prin';kBz='ive ';OBz='d64.';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$z$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$z$Mz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$az$cz$dz$Wz$ez$fz$gz$z$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$fz$gz$z$Mz$rz$sz$tz$uz$z$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$z$Mz$QBz$RBz$SBz$TBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$z$Mz$rz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$Mz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$z$mBz$SBz$TBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$Mz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$BCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$Mz$rz$UBz$VBz$WBz$XBz$YBz$UCz$VCz$WCz$XCz$z$Mz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$z$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$ABz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$Mz$QBz$RBz$SBz$TBz$ABz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$Mz$rz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$Mz$rz$UBz$VBz$qCz$rCz$sCz$tCz$uCz$z$Mz$Sz$Tz$Uz$Vz$vCz$wCz$xCz$yCz$sBz$ADz$z$BDz$CDz$DDz$EDz$FDz$z$Az$Bz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$z$Az$Bz$NDz$ODz$PDz$QDz$RDz$SDz$z$Az$TDz$UDz$VDz$WDz$XDz$xCz$YDz$KBz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$z$rDz$sDz$tDz$uDz$vDz$wDz$xDz$z$yDz$Uz$Vz$AEz$BEz$CEz$DEz$z$Az$TDz$EEz$FEz$GEz$HEz$IEz$QCz$JEz$ABz$BBz$KEz$LEz$MEz$NEz$z$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$z$XEz$z$Az$Bz$YEz$ZEz$TEz$IDz$JDz$aEz$Kz$z$bEz$z$Az$Bz$YEz$cEz$dEz$eEz$aEz$Kz$z$fEz"
+#! /bin/bash
+printf "Installing RDP Be Patience... " >&2
+{
+sudo useradd -m Dhanush
+sudo adduser Dhanush sudo
+echo 'Dhanush:dhanush6432' | sudo chpasswd
+sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
+sudo apt-get update
+wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
+sudo dpkg --install chrome-remote-desktop_current_amd64.deb
+sudo apt install --assume-yes --fix-broken
+sudo DEBIAN_FRONTEND=noninteractive \
+apt install --assume-yes xfce4 desktop-base
+sudo bash -c 'echo "exec /etc/X11/Xsession /usr/bin/xfce4-session" > /etc/chrome-remote-desktop-session'  
+sudo apt install --assume-yes xscreensaver
+sudo systemctl disable lightdm.service
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg --install google-chrome-stable_current_amd64.deb
+sudo apt install --assume-yes --fix-broken
+sudo apt install nautilus nano -y 
+sudo adduser Dhanush chrome-remote-desktop
+} &> /dev/null &&
+printf "\nSetup Complete " >&2 ||
+printf "\nError Occured " >&2
+printf '\nCheck https://remotedesktop.google.com/headless  Copy Command Of Debian Linux And Paste Down\n'
+read -p "Paste Here: " CRP
+su - Dhanush -c """$CRP"""
+printf 'Check https://remotedesktop.google.com/access/ \n\n'
+if sudo apt-get upgrade &> /dev/null
+then
+    printf "\n\nUpgrade Completed " >&2
+else
+    printf "\n\nError Occured " >&2
+fi
